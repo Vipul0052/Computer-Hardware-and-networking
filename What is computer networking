@@ -1,1 +1,16 @@
 A network is a group of computers and other devices connected together. These connections can be with cables, wireless connections, or both.
+Many components and technologies are working together behind the scenes to ensure a networked computer can access resources on the network.
+History {
+In the late 1950s, a network of computers was built for the U.S. military Semi-Automatic Ground Environment (SAGE) radar system using the Bell 101 modem. 
+It was the first commercial modem for computers, released by AT&T Corporation in 1958. The modem allowed digital data to be transmitted over regular unconditioned telephone lines at a speed of 110 bits per second (bit/s). [Source from wikipedia]
+The U.S. Advanced Research Projects Agency Network (ARPANET) was the first public packet-switched computer network. 
+It was first used in 1969 and finally decommissioned in 1989. ARPANET's main use was for academic and research purposes.
+}
+Someof the popular computer networks are:
+(1): PAN:-Personal Area Network which is referred to the interconnected of information technology devices mostly up to 10 meters.These interconnected devices might include laptop computers,mobile phones,printers or other computer device.It is also known as a wireless personal area network(WPAN)
+(2): WAN:- Wade Area Network that is a network connection of wide area such as the world.Example -internet(covered whole city)
+(3): MAN:- Metropolitan Area Network which optimized for a larger geographic area than a LAN, ranging from several blocks of buildings to entire city.  Two or more LaN connected with each other is called metropolitan area network is covered a whole city.Example cable network another name extranet.
+(4): CAN:- Campus Area Network is an interconnected of local area network(LANs) within a limited geographical area. Campus network can be additional to the set of wireless connections,content several buildings to the same network,but it is not the same thing.A can is smaller than a wide area network.Example, corporate office campus, university etc. have interconnected administrative building.
+(5): LAN :- LAN stands for Local Area Network.It is used to network computers within a limited area like offices ,school by using the network media. The area covered upto 1 k.m no need a internet another name intranet
+It also consists of a collection of computers,printers,scanner and other devices that are connected together.
+Networking has single purpose to share information as fast as possible.
