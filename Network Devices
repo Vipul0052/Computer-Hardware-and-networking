@@ -1,0 +1,43 @@
+Networking Devices...........
+The Networking devices are intelligently designed to connect two or more trough a data path.Apart from sharing files,these devices enable printers and machine sharing.
+The communicating devices set up a path that connects all computers in the network.Network is a collaboration or connection of two or more zones or devices through a common linking method. 
+The network allows the nodes to share resources between the linked systems. This is applicable in telecommunication ,internet and even offline data sharing.
+
+What is the use of network devices?
+Network devices or internet working devices are used to establish a network connection inside the corporate environment.
+There are certain hardware devices used within the network to connect two or more computers or peripherals:
+NIC
+Repeater
+HUB
+Switch
+Gateway
+Router
+Modem
+1. NIC
+    NIC stands for NETWORK INTERFACE CARD. Sometimes it is also called by the name "NETWORK INTERFACE CONTROLLER".
+    It is indeed a circuit board or a card that is installed in a computer so that it can be connected to a network.
+    Actually the network interface card provides the computer with a dedicated, full time connection to a netwoek.
+    Personal computers and Workstations on a local area network(LAN)typically contain a network interface card specifically designed for the LAN transmission technology.
+2. REPEATER
+      Repeater is a network devices, which used to regenerate or replicate a signal. It removes the unwanted noise in an incoming signal
+      Unlike an analog signal, the original digital signal,even if weak or distorted ,can be clearly perceived and restored.
+      Repeater operates at Layer 1 of OSI.
+3. HUB
+      Basically a hub is a common connection point for devices in a network. Hubs are commonly used to connect segments of a LAN. 
+      A hub contains multiple ports.
+      HUB operates at Layer 1 of OSI.
+ 4. BRIDGE
+      Bridge devices inspect incoming network traffic and determine whether to forward or discard it according to its intended destination.
+      An Ethernet bridge, for example , inspects each incoming Ethernet frame-including the source and destination MAC address, and sometimes the frame size - in making individual forwarding decisions.
+      Bridge devices operates at the data link layer(Layer 2) of  OSI model.
+ 5. SWITCH
+      switch is very common types of networking devices that channels coming data from any of multiple input ports to to specific output port that will take the data toward, its intended destination in a telecommunications network.
+      In the traditional circuit switched Telephone Network ,one or more switch are used to set up a dedicated communication through temporary connection for circuit for data exchange between two or more network devices
+ 6.GATEWAY
+      A Gateway is a network node which connects two networks in a different protocols.
+      Gateways can take several forms including routers or computers and can perform a variety of tasks. 
+      the most common Gateway is the internet gateway, which connects home or enterprise network to the internet .
+7.ROUTER
+       Router is one of the most used networking device used to sharing internet connection between two devices.
+       The operation of router is complicate as it can both Software and Hardware and operates at layer 3 of OSI
+       
